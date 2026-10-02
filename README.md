@@ -72,8 +72,7 @@ The Power BI dashboard includes interactive visuals:
 - A **donut chart** for analyzing sales performance by region.
 - A **line chart** for tracking monthly sales trends.
 
-The Power BI file is available here: https://github.com/Fedayo/Retail-Store-Sales-Dashboard-Project/blob/main/Sales%20Dashboard.pbix
-
+The Power BI file is available here: https://github.com/Raghav888-stack/Retail-Store-Sales-Analysis/blob/main/Sales%20Dashboard.pbix
 **Dashboard Preview:**
 ![Sales dashboard image](https://github.com/user-attachments/assets/a764efc5-4ef2-40ed-a678-13f9391735f9)
 
